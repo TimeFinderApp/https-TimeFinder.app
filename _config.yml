@@ -50,13 +50,13 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#F79C25"
-topbar_transparency                       : .7                       # DEFAULT 0.1
+topbar_color                              : "#85EAFF"
+topbar_transparency                       : .9                       # DEFAULT 0.1
 topbar_title_color                        : "#000000"
 
 cover_image                               :                    # Default: assets/headerimage.png; Replace with alternative image path or image URL.
 cover_overlay_color                       : "#85EAFF"
-cover_overlay_transparency                : 0.8
+cover_overlay_transparency                : 0.6
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
