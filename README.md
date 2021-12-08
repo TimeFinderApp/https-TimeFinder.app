@@ -1,6 +1,8 @@
 # Automatic App Landing Page
 **Create and deploy an iOS app landing page on GitHub Pages in only five minutes.**
 
+https://github.com/emilbaehr/automatic-app-landing-page
+
 Designed for GitHub Pages for super easy set up. 
 
 🔧 Fork this repo
