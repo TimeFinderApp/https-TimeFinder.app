@@ -35,30 +35,38 @@ youtube_username                          :
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
+  
+  - title                                 : Integrated with your Calendar
+    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : fa-calendar
 
-  - title                                 : Easy to Tweak
+  - title                                 : Available on iPhone, iPad, and Mac
+    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : info-circle
+    
+  - title                                 : Reminder Notifications
+    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : adjust
+    
+  - title                                 : Reminder Notifications
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : Reminder Notifications
+    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : adjust
 
 
 # Theme Settings
 topbar_color                              : "#85EAFF"
-topbar_transparency                       : .9                       # DEFAULT 0.1
+topbar_transparency                       : .9                       # Actually opacity. DEFAULT 0.1
 topbar_title_color                        : "#000000"
 
-cover_image                               :                    # Default: assets/headerimage.png; Replace with alternative image path or image URL.
+cover_image                               :                          # Default: assets/headerimage.png; Replace with alternative image path or image URL.
 cover_overlay_color                       : "#85EAFF"
 cover_overlay_transparency                : 0.5
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : black                    # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#CCF6FF"
 
