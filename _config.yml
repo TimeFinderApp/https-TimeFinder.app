@@ -24,7 +24,7 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Luke Memet                            
 your_link                                 : https://www.linkedin.com/in/lukememet/                  
 your_city                                 : New Jersey, USA                                
-email_address                             : timefinderapp@gmail.com
+email_address                             : luke@timefinderapp.net
 facebook_username                         :                                           
 instagram_username                        : timefinderapp
 twitter_username                          : timefinderapp
@@ -36,25 +36,38 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
   
+  
+  - title                                 : Tap to add tasks
+    description                           : Simply tap an empty time slot to schedule tasks. No other app makes it easier to add & rearrange tasks in your schedule
+    fontawesome_icon_name                 : list-check
+
+  - title                                 : Plan your agenda visually
+    description                           : Drag & drop your tasks directly into your schedule for easier focus & time management
+    fontawesome_icon_name                 : calendar-lines-pen
+
+  - title                                 : Choose how to break up your day
+    description                           : Coordinate your day in 5, 10, 15, 30, or 60-minute time slots
+    fontawesome_icon_name                 : timer
+    
   - title                                 : Integrated with your Calendar
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+    description                           : See your entire schedule in one place so you can plan around existing events. Integrate your calendar with Apple Calendar, Google Calendar & more.
     fontawesome_icon_name                 : calendar
 
   - title                                 : Available on iPhone, iPad, and Mac
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+    description                           : Cross-platform cloud syncing lets you plan and access your data seamlessly across all your devices
+    fontawesome_icon_name                 : laptop-mobile
     
   - title                                 : Reminder Notifications
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : bell
     
-  - title                                 : Reminder Notifications
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Complements productivity tools
+    description                           : The app fits into your workflow in tandem with your favorite goal tracker, bullet journal, habit tracker, project management, & other apps you use most.
+    fontawesome_icon_name                 : arrows-rotate
   
-  - title                                 : Reminder Notifications
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Supports Neurodiversity
+    description                           : Developed as an asset to users with ADHD, autism, dyslexia, & other neurodevelopmental disorders that benefit from tools that help with organization, planning, & time management.
+    fontawesome_icon_name                 : head-side-brain
 
 
 # Theme Settings
