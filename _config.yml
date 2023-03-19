@@ -1,5 +1,5 @@
 #page title
-page_title                                : TimeFinder - Schedule Planner                                        # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : TimeFinder: Day Planner                                        # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1347447233                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -24,7 +24,7 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Luke Memet                            
 your_link                                 : https://www.linkedin.com/in/lukememet/                  
 your_city                                 : New Jersey, USA                                
-email_address                             : luke@timefinderapp.net
+email_address                             : luke@timefinder.app
 facebook_username                         :                                           
 instagram_username                        : timefinderapp
 twitter_username                          : timefinderapp
@@ -37,32 +37,28 @@ youtube_username                          :
 features                                  :
   
   
-  - title                                 : Tap to add tasks
-    description                           : Simply tap an empty time slot to schedule tasks. No other app makes it easier to add & rearrange tasks in your schedule
+  - title                                 : Effortless visual planning
+    description                           : TimeFinder''s sleek and intuitive interface makes managing your busy schedule a breeze, letting you focus on what truly matters.
     fontawesome_icon_name                 : list-check
 
-  - title                                 : Plan your agenda visually
-    description                           : Drag & drop your tasks directly into your schedule for easier focus & time management
-    fontawesome_icon_name                 : calendar-lines-pen
-
-  - title                                 : Choose how to break up your day
-    description                           : Coordinate your day in 5, 10, 15, 30, or 60-minute time slots
+  - title                                 : Personalized Time-Blocking
+    description                           : Customize TimeFinder to reflect your style and preferences with adjustable time intervals, color-coded tasks, and personalized lists.
     fontawesome_icon_name                 : timer
     
   - title                                 : Integrated with your Calendar
-    description                           : See your entire schedule in one place so you can plan around existing events. Integrate your calendar with Apple Calendar, Google Calendar & more.
+    description                           : Bring harmony to your life by effortlessly merging your existing calendar events with TimeFinder, making it your go-to hub for daily planning.
     fontawesome_icon_name                 : calendar
 
   - title                                 : Available on iPhone, iPad, and Mac
-    description                           : Cross-platform cloud syncing lets you plan and access your data seamlessly across all your devices
+    description                           : Enjoy seamless planning and data access on iPhone, iPad and Mac with cloud syncing.
     fontawesome_icon_name                 : laptop-mobile
     
   - title                                 : Reminder Notifications
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+    description                           : Never miss a task with timely reminders and notifications, keeping you on track throughout the day.
     fontawesome_icon_name                 : bell
     
   - title                                 : Complements productivity tools
-    description                           : The app fits into your workflow in tandem with your favorite goal tracker, bullet journal, habit tracker, project management, & other apps you use most.
+    description                           : Enhance your workflow by using TimeFinder in tandem with goal trackers, bullet journals, habit trackers, project management apps, and more.
     fontawesome_icon_name                 : arrows-rotate
   
   - title                                 : Supports Neurodiversity
