@@ -27,7 +27,7 @@ your_city                                 : New Jersey, USA
 email_address                             : luke@timefinder.app
 facebook_username                         :                                           
 instagram_username                        : timefinderapp
-twitter_username                          : timefinderapp
+twitter_username                          : timefinder
 github_username                           : 
 youtube_username                          : 
 
@@ -38,7 +38,7 @@ features                                  :
   
   
   - title                                 : Effortless visual planning
-    description                           : TimeFinder''s sleek and intuitive interface makes managing your busy schedule a breeze, letting you focus on what truly matters.
+    description                           : TimeFinder\'s sleek and intuitive interface makes managing your busy schedule a breeze, letting you focus on what truly matters.
     fontawesome_icon_name                 : list-check
 
   - title                                 : Personalized Time-Blocking
