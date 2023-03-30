@@ -47,15 +47,11 @@ features                                  :
     
   - title                                 : Integrated with your Calendar
     description                           : Bring harmony to your life by effortlessly merging your existing calendar events with TimeFinder, making it your go-to hub for daily planning.
-    fontawesome_icon_name                 : calendar
+    fontawesome_icon_name                 : calendar-days
 
   - title                                 : Available on iPhone, iPad, and Mac
     description                           : Enjoy seamless planning and data access on iPhone, iPad and Mac with cloud syncing.
-    fontawesome_icon_name                 : laptop-mobile
-    
-  - title                                 : Reminder Notifications
-    description                           : Never miss a task with timely reminders and notifications, keeping you on track throughout the day.
-    fontawesome_icon_name                 : bell
+    fontawesome_icon_name                 : mobile-screen-button
     
   - title                                 : Complements productivity tools
     description                           : Enhance your workflow by using TimeFinder in tandem with goal trackers, bullet journals, habit trackers, project management apps, and more.
