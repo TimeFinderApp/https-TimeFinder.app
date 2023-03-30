@@ -43,7 +43,7 @@ features                                  :
 
   - title                                 : Personalized Time-Blocking
     description                           : Customize TimeFinder to reflect your style and preferences with adjustable time intervals, color-coded tasks, and personalized lists.
-    fontawesome_icon_name                 : timer
+    fontawesome_icon_name                 : clock
     
   - title                                 : Integrated with your Calendar
     description                           : Bring harmony to your life by effortlessly merging your existing calendar events with TimeFinder, making it your go-to hub for daily planning.
