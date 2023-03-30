@@ -39,7 +39,7 @@ features                                  :
   
   - title                                 : Effortless visual planning
     description                           : TimeFinder's sleek and intuitive interface makes managing your busy schedule a breeze, letting you focus on what truly matters.
-    fontawesome_icon_name                 : fa-list
+    fontawesome_icon_name                 : list
 
   - title                                 : Personalized Time-Blocking
     description                           : Customize TimeFinder to reflect your style and preferences with adjustable time intervals, color-coded tasks, and personalized lists.
