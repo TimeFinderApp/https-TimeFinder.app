@@ -59,7 +59,7 @@ features                                  :
   
   - title                                 : Supports Neurodiversity
     description                           : Developed as an asset to users with ADHD, autism, dyslexia, & other neurodevelopmental disorders that benefit from tools that help with organization, planning, & time management.
-    fontawesome_icon_name                 : head-side-brain
+    fontawesome_icon_name                 : brain
 
 
 # Theme Settings
