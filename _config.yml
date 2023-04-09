@@ -56,10 +56,6 @@ features                                  :
   - title                                 : Complements productivity tools
     description                           : Enhance your workflow by using TimeFinder in tandem with goal trackers, bullet journals, habit trackers, project management apps, and more.
     fontawesome_icon_name                 : arrows-rotate
-  
-  - title                                 : Built by someone who gets it
-    description                           : TimeFinder was designed as an asset to users with ADHD, autism, dyslexia, & other neurodevelopmental disorders that benefit from tools that help with organization, planning, & time management.
-    fontawesome_icon_name                 : hand-holding-heart
 
 
 # Theme Settings
