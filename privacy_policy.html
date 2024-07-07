@@ -1,28 +1,53 @@
 <!DOCTYPE html>
-    <html>
-    <head>
-      <meta charset='utf-8'>
-      <meta name='viewport' content='width=device-width'>
-      <title>Privacy Policy</title>
-      <style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; }
-      @media (prefers-color-scheme: dark) {
-    html{
-        filter: invert(1)  hue-rotate(.5turn);
+<html>
+<head>
+  <meta charset='utf-8'>
+  <meta name='viewport' content='width=device-width'>
+  <title>Privacy Policy</title>
+  <style>
+    body {
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      padding: 1em;
+      background-color: white;
+      color: black;
+      transition: background-color 0.3s, color 0.3s;
     }
-    img {
-        filter: invert(1)  hue-rotate(.5turn);
+
+    @media (prefers-color-scheme: dark) {
+      body {
+        background-color: #121212; /* Dark background color */
+        color: #e0e0e0; /* Light text color */
+      }
+      a {
+        color: #bb86fc; /* Light purple link color for better visibility */
+      }
+      img {
+        /* Optional: Only if you have images that don't look good in dark mode */
+        /* filter: brightness(0.8) contrast(1.2); */
+      }
     }
-}
 
- :root {
-  color-scheme: light dark;
-}
-
-      
-      </style>
-    </head>
-    <body>
-<div name="termly-embed" data-id="fa5d9711-8425-4f41-8238-a8781d98c5ae" data-type="iframe"></div>
-<a href="https://www.iubenda.com/privacy-policy/71781772" class="iubenda-white no-brand iubenda-noiframe iubenda-embed iubenda-noiframe iub-body-embed" title="Privacy Policy">Privacy Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>   </body>
-    </html>
-      
+    :root {
+      color-scheme: light dark;
+    }
+  </style>
+</head>
+<body>
+  <div name="termly-embed" data-id="fa5d9711-8425-4f41-8238-a8781d98c5ae" data-type="iframe"></div>
+  <a href="https://www.iubenda.com/privacy-policy/71781772" class="iubenda-white no-brand iubenda-noiframe iubenda-embed iubenda-noiframe iub-body-embed" title="Privacy Policy">Privacy Policy</a>
+  <script type="text/javascript">(function (w,d) {
+    var loader = function () {
+      var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0];
+      s.src="https://cdn.iubenda.com/iubenda.js";
+      tag.parentNode.insertBefore(s,tag);
+    };
+    if(w.addEventListener){
+      w.addEventListener("load", loader, false);
+    } else if(w.attachEvent){
+      w.attachEvent("onload", loader);
+    } else {
+      w.onload = loader;
+    }
+  })(window, document);</script>
+</body>
+</html>
