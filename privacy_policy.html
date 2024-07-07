@@ -4,57 +4,10 @@
   <meta charset='utf-8'>
   <meta name='viewport' content='width=device-width'>
   <title>Privacy Policy</title>
-  <style>
-/* Dark Mode Styles */
-body.dark-mode {
-  background-color: #1e1e1e; /* Dark background */
-  color: #c7c7c7; /* Light text */
-}
-
-body.dark-mode a {
-  color: #9ab; /* Light purple links for contrast */
-}
-
-body.dark-mode .iub_header,
-body.dark-mode .simple_pp,
-body.dark-mode .one_line_col {
-  background-color: #2a2a2a; /* Slightly lighter dark background for sections */
-  border-color: #3a3a3a; /* Border color for distinguishable edges */
-}
-
-body.dark-mode h1,
-body.dark-mode h2,
-body.dark-mode h3,
-body.dark-mode h4,
-body.dark-mode h5,
-body.dark-mode h6 {
-  color: #eaeaea; /* Lighter text for headings */
-}
-
-body.dark-mode .expand-content {
-  background-color: #252525; /* Dark background for expandable content */
-  border-top: 1px solid #3a3a3a; /* Border color for separation */
-}
-
-body.dark-mode .iconed {
-  border-left-color: #3a3a3a; /* Border color for iconed list items */
-}
-
-    body.dark-mode h1,
-    body.dark-mode h2,
-    body.dark-mode h3,
-    body.dark-mode h4,
-    body.dark-mode h5,
-    body.dark-mode h6 {
-      color: #eaeaea; /* Lighter text for headings */
-    }
-
-  </style>
 </head>
 <body>
   <a href="https://www.iubenda.com/privacy-policy/71781772" class="iubenda-white no-brand iubenda-noiframe iubenda-embed iubenda-noiframe iub-body-embed" title="Privacy Policy">Privacy Policy</a>
   <script type="text/javascript">
-    // Load the Iubenda script
     (function (w,d) {
       var loader = function () {
         var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0];
@@ -69,26 +22,6 @@ body.dark-mode .iconed {
         w.onload = loader;
       }
     })(window, document);
-
-    // Dark mode toggle function
-    function toggleDarkMode() {
-      var body = document.body;
-      body.classList.toggle('dark-mode');
-    }
-
-    // Example usage: Automatically apply dark mode based on system preferences
-    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-      toggleDarkMode();
-    }
-
-    // Add event listener for system preference changes
-    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', event => {
-      if (event.matches) {
-        toggleDarkMode(); // System switched to dark mode
-      } else {
-        toggleDarkMode(); // System switched to light mode
-      }
-    });
   </script>
 </body>
 </html>
